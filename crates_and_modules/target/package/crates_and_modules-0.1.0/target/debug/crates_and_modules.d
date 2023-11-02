@@ -1,0 +1,1 @@
+D:\rust\crates_and_modules\target\package\crates_and_modules-0.1.0\target\debug\crates_and_modules.exe: D:\rust\crates_and_modules\target\package\crates_and_modules-0.1.0\src\lib.rs D:\rust\crates_and_modules\target\package\crates_and_modules-0.1.0\src\main.rs
